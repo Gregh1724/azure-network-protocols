@@ -9,7 +9,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Compute) 
 - Remote Desktop
 - Various Command-Line Tools
 - Various Network Protocols (ICMP, SSH, DHCP, DNS, RDP)
